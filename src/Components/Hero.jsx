@@ -36,7 +36,7 @@ const Hero = () => {
           </h1>
 
           <p className="bg-[#38B6FC] px-4 py-1 rounded-md text-black font-black my-4 text-base sm:text-xl">
-            Web Developer & Designer{" "}
+            Web Developer {" "}
           </p>
           <p className="text-base text-[#A4A4A5] md:text-xl lg:text-2xl my-3 md:my-6">
           Backend Developer and Computer Engineering Student with a 
